@@ -1,0 +1,19 @@
+{
+  "name": "@bjk95/fin-calc",
+  "version": "0.0.1",
+  "description": "Simple investing calculator",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "immer": "^9.0.15"
+  },
+  "devDependencies": {
+    "typescript": "^2.9.2"
+  }
+}
