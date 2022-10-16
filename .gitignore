@@ -1,0 +1,9 @@
+.next/
+node_modules/
+wasm
+target/
+.vscode/
+.DS_STORE
+
+dist/
+.turbo/
